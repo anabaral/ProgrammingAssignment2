@@ -1,7 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-
 ## Usage example:
 ## > m
 ##      [,1] [,2] [,3] [,4]
