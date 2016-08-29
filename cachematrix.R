@@ -34,7 +34,7 @@
 makeCacheMatrix <- function(x = matrix()) {
 
 	# initialize
-	inv <<- NULL
+	inv <- NULL
 	
 	# set a matrix
 	set <- function(y) {
